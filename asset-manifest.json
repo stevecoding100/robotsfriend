@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stevecoding100.github.io/robotsfriend/static/css/main.d2f82ef5.css",
+    "main.js": "/stevecoding100.github.io/robotsfriend/static/js/main.ce101cde.js",
+    "index.html": "/stevecoding100.github.io/robotsfriend/index.html",
+    "main.d2f82ef5.css.map": "/stevecoding100.github.io/robotsfriend/static/css/main.d2f82ef5.css.map",
+    "main.ce101cde.js.map": "/stevecoding100.github.io/robotsfriend/static/js/main.ce101cde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2f82ef5.css",
+    "static/js/main.ce101cde.js"
+  ]
+}
